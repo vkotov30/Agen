@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="btn_margin">4dp</dimen>
+    <dimen name="fab_w_h">60dp</dimen>
+    <dimen name="fab_margins">16dp</dimen>
+</resources>

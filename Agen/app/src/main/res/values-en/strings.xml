@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_comp_list">Company list</string>
+    <string name="btn_planing">Planing</string>
+    <string name="btn_events">Events</string>
+    <string name="btn_report">Report</string>
+    <string name="btn_dumps_comp">Dumps Company</string>
+    <string name="btn_contacts">Contacts</string>
+</resources>

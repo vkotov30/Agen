@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Agen</string>
+    <string name="btn_comp_list">Список фирм</string>
+    <string name="btn_planing">Планирование</string>
+    <string name="btn_events">Мероприятия</string>
+    <string name="btn_report">Отчет</string>
+    <string name="btn_dumps_comp">Отвалы</string>
+    <string name="btn_contacts">Контакты</string>
+
+</resources>
